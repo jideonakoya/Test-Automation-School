@@ -10,4 +10,3 @@ number = 200
 
 myName = "Jide Onakoya"
 
-print(type(myName))
