@@ -33,7 +33,6 @@ languages.clear()
 print("clear:", languages, length)
 
 
-
 languages = ["python", "java", "C#"]
 
 #copy -> return a copy of the list
@@ -53,3 +52,7 @@ languages.sort()
 print("sort-asc:", languages)
 languages.sort(reverse=True)
 print("sort-desc:", languages)
+
+# extend -> add the content of the specified list to our current list
+languages.extend(["visual basic", "sql", "powershell"])
+print("extend:", languages)

@@ -9,3 +9,5 @@ laptop = {
 print(laptop)
 laptop.update({"Keyboard colour": "Black", "Webcam": "Hi-Def"})
 print(laptop)
+laptop.popitem()
+print(laptop)

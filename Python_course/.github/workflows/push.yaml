@@ -1,0 +1,29 @@
+name: Git Actions Demo
+on: [push]
+jobs:
+ Explore-GitHub-Actions:
+   runs-on: ${{ matrix.os }}
+   strategy:
+    matrix:
+      os: [ubuntu-latest, windows-latest, macos-latest]
+   steps:
+     - uses: actions/checkout@v2
+     - run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
+     - run: Task1.py
+     - run: Task2.py
+     - run: Task3.py
+     - run: Task4.py
+     - run: Task5.py
+     - run: Task6.py
+     - run: Task7.py
+     - run: Task8.py
+     - run: Task9.py
+     - run: Task10.py
+     - run: Task11.py
+     - run: Task12.py
+     - run: Task13.py || true
+     - run: Task14.py
+     - run: Task15.py
+     - run: Task16.py
+     - run: Task17.py
+     - run: Task18.py
