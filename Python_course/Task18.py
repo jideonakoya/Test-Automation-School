@@ -8,4 +8,4 @@ class Human:
 
 
 boy = Human()
-print("Leg count:", boy.leg_count, "\b," " Can walk?:", boy.can_walk)
+print("Leg count:", boy.leg_count, "\b," " Can boy walk?:", boy.can_walk)
