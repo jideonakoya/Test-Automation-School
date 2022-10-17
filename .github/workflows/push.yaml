@@ -1,0 +1,51 @@
+name: Git Actions Demo
+on: [ push ]
+jobs:
+ Explore-GitHub-Actions:
+   runs-on: windows-latest
+   steps:
+     - uses: actions/checkout@v2
+     - run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
+     - run: node JsCodingChallenge\jsCodeChallenge1.js
+     - run: node JsCodingChallenge\jsCodeChallenge2.js
+     - run: node JsCodingChallenge\jsCodeChallenge3.js
+     - run: node JsCodingChallenge\jsCodeChallenge4.js
+     - run: node JsCodingChallenge\jsCodeChallenge5.js
+     - run: node JsCodingChallenge\jsCodeChallenge6.js
+     - run: node JsCodingChallenge\jsCodeChallenge7.js
+     - run: node JsCodingChallenge\jsCodeChallenge8.js
+     - run: node JsCodingChallenge\jsCodeChallenge9.js
+     - run: node JsCodingChallenge\jsCodeChallenge10.js
+     - run: node JSlessons\app.js
+     - run: node JSlessons\Array.js
+     - run: node JSlessons\Object.js
+     - run: node JSlessons\Task1.js
+     - run: node JSlessons\Task2.js
+     - run: node JSlessons\Task3.js
+     - run: node JSlessons\Task5.js
+     - run: node JSlessons\Task6.js
+     - run: node JSlessons\Task7.js
+     - run: node JSlessons\Task8.js
+     - run: node JSlessons\Task9.js
+     - run: node JSlessons\Task12.js
+     - run: node JSlessons\Task13.js
+     - run: node JSlessons\Task14.js
+     - run: node JSlessons\WL.js
+     - run: python Python_course\Task1.py
+     - run: python Python_course\Task2.py
+     - run: python Python_course\Task3.py
+     - run: python Python_course\Task4.py
+     - run: python Python_course\Task5.py
+     - run: python Python_course\Task6.py
+     - run: python Python_course\Task7.py
+     - run: python Python_course\Task8.py
+     - run: python Python_course\Task9.py
+     - run: python Python_course\Task10.py
+     - run: python Python_course\Task11.py
+     - run: python Python_course\Task12.py
+     - run: python Python_course\Task13.py || true
+     - run: python Python_course\Task14.py
+     - run: python Python_course\Task15.py
+     - run: python Python_course\Task16.py
+     - run: python Python_course\Task17.py
+     - run: python Python_course\Task18.py
