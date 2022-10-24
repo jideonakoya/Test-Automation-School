@@ -49,3 +49,10 @@ jobs:
      - run: python Python_course\Task16.py
      - run: python Python_course\Task17.py
      - run: python Python_course\Task18.py
+     - run: python Python_course\Task19.py
+     - run: python Python_course\Task20.py
+     - run: python Python_course\Task21.py
+     - run: python Python_course\Task22.py
+     - run: python Python_course\Task23.py
+     - run: python Python_course\Task24.py
+     - run: python Python_course\Task25.py
