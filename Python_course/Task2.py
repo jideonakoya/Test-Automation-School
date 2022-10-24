@@ -10,3 +10,6 @@ number = 200
 
 myName = "Jide Onakoya"
 
+print("My Var:", my_var)
+print("Number:", number)
+print("My Name:", myName)
