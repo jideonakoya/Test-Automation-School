@@ -8,6 +8,6 @@ def test_addition():
 
 
 def test_subraction():
-    assert bodmas.subtraction(4,3) == 1
+    assert bodmas.subtraction(4, 3) == 1
     assert bodmas.subtraction(1, 2) == -1
 
