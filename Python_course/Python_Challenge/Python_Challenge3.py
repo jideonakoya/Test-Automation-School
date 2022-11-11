@@ -1,0 +1,3 @@
+# In your own word, explain the keyword pass.
+
+# Pass is used to skip an empty function, so the program does not regard it as invalid

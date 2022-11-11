@@ -14,6 +14,5 @@ class TestBodmas(unittest.TestCase):
         self.assertEqual(bodmas.subtraction(9, 1), 8)
 
 
-
 if __name__ == '__main__':
     unittest.main()
