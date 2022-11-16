@@ -1,7 +1,0 @@
-# Explain what polymorphism and inheritance are in python OOP
-
-# Polymorphism is the capability of many class methods to perform the same task. In this case a child class can have the same name
-# as the parent method but can perform different actions for each class
-
-# Inheritance is the capability of one class to inherit the attribbutes and methods from another class.
-# The class being inherited from is the Parent class while the class that inherits from another class is the Child class
