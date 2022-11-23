@@ -1,0 +1,45 @@
+1669151257841	geckodriver	INFO	Listening on 127.0.0.1:57431
+1669151260944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofilet3cb9m"
+1669151261442	Marionette	INFO	Marionette enabled
+1669151261448	Marionette	INFO	Listening on port 57442
+Read port: 57442
+WebDriver BiDi listening on ws://127.0.0.1:57432
+1669151261574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofilet3cb9m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57432/devtools/browser/93ff982f-255c-423e-bd67-0ada3d662fd3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669220861541	Marionette	INFO	Stopped listening on port 57442
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileQBtneV"
+1669197070655	Marionette	INFO	Marionette enabled
+1669197070662	Marionette	INFO	Listening on port 52428
+Read port: 52428
+WebDriver BiDi listening on ws://127.0.0.1:52417
+1669197070807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileQBtneV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52417/devtools/browser/31eb658c-d75e-4765-8abe-a34da9b08851
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1669220860144	Marionette	INFO	Stopped listening on port 52428
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileq1D7GJ"
+1669197210388	Marionette	INFO	Marionette enabled
+1669197210393	Marionette	INFO	Listening on port 52587
+Read port: 52587
+WebDriver BiDi listening on ws://127.0.0.1:52577
+1669197210524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileq1D7GJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52577/devtools/browser/bfe3d8ad-1820-4571-ad5b-2c7e85ce0d1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1669197249873	Marionette	INFO	Stopped listening on port 52587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669202828027	geckodriver	INFO	Listening on 127.0.0.1:57756
+1669202831065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileYNxtsX"
+1669202831520	Marionette	INFO	Marionette enabled
+1669202831527	Marionette	INFO	Listening on port 57768
+Read port: 57768
+WebDriver BiDi listening on ws://127.0.0.1:57757
+1669202831703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JIDEON~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileYNxtsX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57757/devtools/browser/d249bc6d-0c71-4319-8a03-c6753543e5b5
+1669202851240	Marionette	INFO	Stopped listening on port 57768
